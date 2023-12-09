@@ -1,3 +1,6 @@
+/* =================================================================== */
+         /* ===== Banner Background Images Styles ===== */
+/* =================================================================== */
 .banner-img-1 {
     background-image: url(../../resource-images/images/carousel/1.jpg);
     height: 100vh;
@@ -17,4 +20,20 @@
 .banner-img-5 {
     background-image: url(../../resource-images/images/carousel/5.jpg);
     height: 100vh;
+}
+
+/* =================================================================== */
+               /* ===== Clients Images Styles ===== */
+/* =================================================================== */
+.client-image {
+    width: 170px;
+
+}
+
+
+
+
+
+.hide {
+    display: none;
 }
